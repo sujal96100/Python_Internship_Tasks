@@ -1,0 +1,13 @@
+Text,Label
+"Win a free iPhone now!",Spam
+"Hey, how are you?",Not Spam
+"Congratulations! You won a lottery.",Spam
+"Meeting at 5 PM today.",Not Spam
+"Get a free Netflix subscription today!",Spam
+"Let's catch up tomorrow.",Not Spam
+"Urgent! Your account has been compromised.",Spam
+"Can you send me the report?",Not Spam
+"Click this link to claim your prize!",Spam
+"Don't forget our dinner plan.",Not Spam
+"Exclusive deal! Buy one get one free.",Spam
+"How was your day?",Not Spam
